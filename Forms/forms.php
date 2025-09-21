@@ -3,7 +3,7 @@ class forms {
     public function signup($conf, $ObjFncs) {
       $err = $ObjFncs->getMsg('errors'); print $ObjFncs->getMsg('msg');
  ?>
-            <h2>Sign Up Here</h2>
+            <h2>Sign Up Here </h2>
 <form action='' method='post' autocomplete="off">
   <div class="mb-3">
     <label for="fullname" class="form-label">Fullname</label>
